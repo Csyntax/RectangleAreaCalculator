@@ -1,0 +1,14 @@
+/home/csyntax/C#/c#Projects/RectangleAreaCalculator/RectangleAreaCalculator/bin/Debug/net8.0/RectangleAreaCalculator
+/home/csyntax/C#/c#Projects/RectangleAreaCalculator/RectangleAreaCalculator/bin/Debug/net8.0/RectangleAreaCalculator.deps.json
+/home/csyntax/C#/c#Projects/RectangleAreaCalculator/RectangleAreaCalculator/bin/Debug/net8.0/RectangleAreaCalculator.runtimeconfig.json
+/home/csyntax/C#/c#Projects/RectangleAreaCalculator/RectangleAreaCalculator/bin/Debug/net8.0/RectangleAreaCalculator.dll
+/home/csyntax/C#/c#Projects/RectangleAreaCalculator/RectangleAreaCalculator/bin/Debug/net8.0/RectangleAreaCalculator.pdb
+/home/csyntax/C#/c#Projects/RectangleAreaCalculator/RectangleAreaCalculator/obj/Debug/net8.0/RectangleAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/csyntax/C#/c#Projects/RectangleAreaCalculator/RectangleAreaCalculator/obj/Debug/net8.0/RectangleAreaCalculator.AssemblyInfoInputs.cache
+/home/csyntax/C#/c#Projects/RectangleAreaCalculator/RectangleAreaCalculator/obj/Debug/net8.0/RectangleAreaCalculator.AssemblyInfo.cs
+/home/csyntax/C#/c#Projects/RectangleAreaCalculator/RectangleAreaCalculator/obj/Debug/net8.0/RectangleAreaCalculator.csproj.CoreCompileInputs.cache
+/home/csyntax/C#/c#Projects/RectangleAreaCalculator/RectangleAreaCalculator/obj/Debug/net8.0/RectangleAreaCalculator.dll
+/home/csyntax/C#/c#Projects/RectangleAreaCalculator/RectangleAreaCalculator/obj/Debug/net8.0/refint/RectangleAreaCalculator.dll
+/home/csyntax/C#/c#Projects/RectangleAreaCalculator/RectangleAreaCalculator/obj/Debug/net8.0/RectangleAreaCalculator.pdb
+/home/csyntax/C#/c#Projects/RectangleAreaCalculator/RectangleAreaCalculator/obj/Debug/net8.0/RectangleAreaCalculator.genruntimeconfig.cache
+/home/csyntax/C#/c#Projects/RectangleAreaCalculator/RectangleAreaCalculator/obj/Debug/net8.0/ref/RectangleAreaCalculator.dll
